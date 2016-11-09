@@ -1,0 +1,50 @@
+div {
+	width: 900px;
+	margin-left: 20px;
+}
+
+* {
+	font-family: "Lato";
+}
+
+
+
+h1 {
+	color: red;
+	font-weight: 300;
+	font-size: 60px
+
+}
+
+h2 {
+	color: black;
+	font-weight: 300
+}
+
+.links-top {
+	color: #444444;
+	margin: 8px;
+
+}
+
+.date {
+	color: #444444;
+}
+
+.date:hover {
+	background: red;
+}
+
+.continues {
+	color: red;
+	text-align: right;
+
+}
+
+.links-bottom {
+	color: red;
+}
+
+#copyright {
+	color: #444444;
+}

@@ -1,0 +1,14 @@
+h1 {
+	color: #05B9F5;
+	background-color: black;
+	border-color: #05B9F5;
+}
+#red {
+	color: #F54105;
+}
+.indent {
+	text-indent: 50px;
+}
+.yellow {
+	color: yellow;
+}
